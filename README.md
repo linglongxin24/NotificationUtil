@@ -5,6 +5,8 @@
 
 先看效果图
 
+<img src="https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/main.png?raw=true" width="50%" height="50%"/>
+
 #1.主要参数介绍
  * 1.notification的title
  * 2.发送notification的application的icon或者发送者的image。
