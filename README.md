@@ -10,6 +10,11 @@
 </div>
 
 #1.主要参数介绍
+
+![图片1](https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/demo1.png?raw=true)
+![图片2](https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/demo2.png?raw=true)
+![图片3](https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/demo3.png?raw=true)
+
  * 1.notification的title
  * 2.发送notification的application的icon或者发送者的image。
  * 3.notification的message
