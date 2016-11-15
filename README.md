@@ -5,8 +5,8 @@
 
 先看效果图
 <div nowrap>
-<img src="https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/main.png?raw=true" width="40%" height="40%"/>
-<img src="https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/effect.png?raw=true" width="40%" height="40%"/>
+<img src="https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/main.png?raw=true" width="45%" height="45%"/>
+<img src="https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/effect.png?raw=true" width="45%" height="45%" marginleft="10"/>
 </div>
 
 #1.主要参数介绍
