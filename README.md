@@ -4,9 +4,10 @@
 在这里介绍下基本用法，代码比较简单，高手请略过。
 
 先看效果图
-
+<div>
 <img src="https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/main.png?raw=true" width="50%" height="50%"/>
 <img src="https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/effect.png?raw=true" width="50%" height="50%"/>
+</div>
 
 #1.主要参数介绍
  * 1.notification的title
