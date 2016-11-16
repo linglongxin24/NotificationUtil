@@ -125,7 +125,6 @@ public class NotificationUtil {
         NotificationManager notificationManager = (NotificationManager) context.getSystemService(context.NOTIFICATION_SERVICE);
         notificationManager.notify(3, builder.build());
     }
-
     /**
      * 折叠式
      *
