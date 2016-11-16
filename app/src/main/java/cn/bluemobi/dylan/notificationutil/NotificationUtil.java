@@ -102,7 +102,7 @@ public class NotificationUtil {
     }
 
     /**
-     * 悬挂式
+     * 悬挂式，支持6.0以上系统
      *
      * @param context
      */
