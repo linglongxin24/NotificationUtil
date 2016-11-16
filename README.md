@@ -1,13 +1,13 @@
 #全新的Android通知栏,已抛弃setLatestEventInfo,兼容高版本
->这算是一个入门级的Android通知栏notification的文章，因为在项目中要用到，
-又发现以前的低版本的用setLatestEventInfo已过时，还报错，完全不兼容。所以，
-在这里介绍下基本用法，代码比较简单，高手请略过。
+>这算是一个入门级的Android通知栏notification的文章，因为在项目中要用到，又发现以前的低版本的用setLatestEventInfo已过时，还报错，完全不兼容。所以，在这里介绍下基本用法，代码比较简单，高手请略过。
 
 先看效果图
-<div nowrap>
+
+
+<div>
 <img src="https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/main.png?raw=true" width="30%" height="30%"/>
 <img src="https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/effect.png?raw=true" width="30%" height="30%" style = "margin:20px"/>
-<img src="https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/effect.png?raw=true" width="30%" height="30%" style = "margin:20px"/>
+<img src="https://github.com/linglongxin24/NotificationUtil/blob/master/screenshorts/effect2.png?raw=true" width="30%" height="30%" style = "margin:20px"/>
 </div>
 
 #1.主要参数介绍
